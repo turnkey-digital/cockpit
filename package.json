@@ -1,0 +1,20 @@
+{
+  "name": "nuxtjs",
+  "version": "1.0.0",
+  "description": "My astonishing Nuxt.js project",
+  "author": "msweeneydev",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxtjs/dotenv": "^1.4.1",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^3.1.0",
+    "nodemon": "^1.18.9"
+  }
+}
