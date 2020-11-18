@@ -9,7 +9,7 @@
             <div class="container pb-16">
                 <div v-html="hero.tagline" class="tagline container mx-auto text-white font-helN text-6xl" />
                 <div class="tagline text-white font-prox text-6xl -mt-12"><span>...</span></div>
-            </div>
+            </div> 
         </div>
     </div>
 
